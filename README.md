@@ -72,3 +72,7 @@ API 可用性、云端在线、软件版本、网站 DOM、期刊体例都会漂
 
 
 
+
+---
+
+*这套心得的实证工具见 [contract-core](https://github.com/Li-start363/contract-core) —— 让便宜模型先想再写的"合同"机制,含实测数据与诚实失效地图。*
