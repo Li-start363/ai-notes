@@ -1,6 +1,7 @@
-# 让ai使用更顺手，更少幻觉
+# 让ai使用更顺手，更少幻觉 Make AI easier and smoother to use, with fewer hallucinations.
 
-> [English](README.en.md) | 用 AI 干活的一线纪律:怎么省 token、怎么防它撒谎、怎么把人的决策变成机器的流程。
+Switch the language version you read as needed.  > [English](README.en.md) |
+> 用 AI 干活的一线纪律:怎么省 token、怎么防它撒谎、怎么把人的决策变成机器的流程。
 > 更新:2025-11-25 · 作者实证于日常研究/工程管线(Claude CLI、codex、MCP 工具栈)。
 
 **TL;DR**:把 AI 当一个能力很强、但会想当然的工程师带——方案先行、约束固化、产物验收、诚实收尾;贵的算力花在决策上,便宜的算力花在执行上。
