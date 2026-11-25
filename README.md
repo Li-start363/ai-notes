@@ -1,5 +1,5 @@
-# 让ai使用更顺手，更少幻觉 
-Make AI easier and smoother to use, with fewer hallucinations.
+#                  让ai使用更顺手，更少幻觉 
+# Make AI easier and smoother to use, with fewer hallucinations.
 
 Switch the language version you read as needed.  > [English](README.en.md) |
 > 用 AI 干活的一线纪律:怎么省 token、怎么防它撒谎、怎么把人的决策变成机器的流程。
