@@ -1,7 +1,7 @@
 # Lessons from Using AI · An Engineer's Field Notes
 
 > [简体中文](README.md) | Front-line discipline for getting work done with AI: how to save tokens, how to keep it from lying, how to turn human decisions into machine-run process.
-> Updated: 2025-11-25 · Field-tested in daily research/engineering pipelines (Claude CLI, codex, MCP tool stack).
+>Field-tested in daily research/engineering pipelines (Claude CLI, codex, MCP tool stack).
 
 **TL;DR**: Treat AI like a very capable engineer who jumps to conclusions — plan first, lock constraints in, verify artifacts, close honestly; expensive compute on decisions, cheap compute on execution.
 
